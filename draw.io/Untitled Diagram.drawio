@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T12:45:50.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ZMPrZTvwS9aK6DkUdhHi" version="15.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-05T12:46:03.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="2_ydaDD9KOa874FyGCht" version="15.4.1" type="github" pages="7">
   <diagram id="xktnysNyg5yojeHXHqyt" name="Page-1">
     <mxGraphModel dx="782" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -261,7 +261,7 @@
         <mxCell id="14Cm2YpObu1aIT8y20Qj-11" value="prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BH6t8zBGxd4H-apCrXyK-38">
           <mxGeometry x="130" y="40" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="14Cm2YpObu1aIT8y20Qj-15" value="指标ROC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BH6t8zBGxd4H-apCrXyK-38">
+        <mxCell id="14Cm2YpObu1aIT8y20Qj-15" value="缺陷检测精度指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BH6t8zBGxd4H-apCrXyK-38">
           <mxGeometry x="280" y="40" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="858kugxPJ-G69x8oMa84-13" value="" style="group" vertex="1" connectable="0" parent="BH6t8zBGxd4H-apCrXyK-38">
@@ -432,7 +432,7 @@
         <mxCell id="14Cm2YpObu1aIT8y20Qj-13" value="prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NQQfk9e2Rfc_2WNFlvra-1">
           <mxGeometry x="350" y="360" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="14Cm2YpObu1aIT8y20Qj-17" value="指标ROC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NQQfk9e2Rfc_2WNFlvra-1">
+        <mxCell id="14Cm2YpObu1aIT8y20Qj-17" value="缺陷检测精度指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NQQfk9e2Rfc_2WNFlvra-1">
           <mxGeometry x="500" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BH6t8zBGxd4H-apCrXyK-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.887;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=48;" parent="NQQfk9e2Rfc_2WNFlvra-1" edge="1">
