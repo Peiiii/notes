@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T03:25:41.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="Ug86FpRxVWABA0tQG8U2" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T03:27:04.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="g8mglUq2_MNRWOkznLUi" version="15.4.3" type="github">
   <diagram id="yiBgiRCkKJPcv2Lnv_mv" name="Page-1">
     <mxGraphModel dx="782" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="rwNXe6uteSH2ScPEwT7D-26" value="生产控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-30" value="软件层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-30" value="平台层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rwNXe6uteSH2ScPEwT7D-30" target="rwNXe6uteSH2ScPEwT7D-30">
@@ -90,6 +90,15 @@
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-40" value="研发设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-41" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
