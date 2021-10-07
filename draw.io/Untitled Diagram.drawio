@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T04:54:22.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="RM94l0W92FI7W0aKk9oR" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T04:57:38.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="8jhKXMtXsat6C3N0okSc" version="15.4.3" type="github">
   <diagram id="yiBgiRCkKJPcv2Lnv_mv" name="Page-1">
     <mxGraphModel dx="920" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,55 +8,55 @@
           <mxGeometry x="120" y="80" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-2" value="垂直行业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="80" width="230" height="30" as="geometry" />
+          <mxGeometry x="230" y="80" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-3" value="垂直行业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="80" width="150" height="30" as="geometry" />
+          <mxGeometry x="520" y="80" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-5" value="能&lt;br&gt;源&lt;br&gt;电&lt;br&gt;力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-6" value="冶&lt;br&gt;金&lt;br&gt;化&lt;br&gt;工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-7" value="医&lt;br&gt;药&lt;br&gt;制&lt;br&gt;造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-8" value="电&lt;br&gt;子&lt;br&gt;信&lt;br&gt;息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-9" value="军&lt;br&gt;工&lt;br&gt;航&lt;br&gt;天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="120" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-10" value="汽&lt;br&gt;车&lt;br&gt;装&lt;br&gt;备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-11" value="研&lt;br&gt;发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="520" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-12" value="研&lt;br&gt;发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="560" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-13" value="研&lt;br&gt;发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="600" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-14" value="研&lt;br&gt;发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="640" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-17" value="工业大数据分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="80" width="150" height="30" as="geometry" />
+          <mxGeometry x="690" y="80" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-18" value="设&lt;br&gt;备&lt;br&gt;诊&lt;br&gt;断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="690" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-19" value="研&lt;br&gt;发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="730" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-20" value="研&lt;br&gt;发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="770" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-21" value="研&lt;br&gt;发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="810" y="120" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-22" value="软件层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="80" height="40" as="geometry" />
@@ -130,13 +130,13 @@
         <mxCell id="rwNXe6uteSH2ScPEwT7D-56" value="工&lt;br&gt;业&lt;br&gt;机&lt;br&gt;器&lt;br&gt;人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="460" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-57" value="3&lt;br&gt;D&lt;br&gt;打&lt;br&gt;印&lt;br&gt;机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="460" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-58" value="智&lt;br&gt;能&lt;br&gt;机&lt;br&gt;床" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="460" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rwNXe6uteSH2ScPEwT7D-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-59" value="智&lt;br&gt;能&lt;br&gt;设&lt;br&gt;备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="460" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-60" value="传&lt;br&gt;感&lt;br&gt;器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="rwNXe6uteSH2ScPEwT7D-77" value="垂直行业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNXe6uteSH2ScPEwT7D-81" value="军&lt;br&gt;工&lt;br&gt;机&lt;br&gt;械" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
