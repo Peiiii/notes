@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T19:21:10.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="pvIC_R7-CR0h8ygGryXO" version="15.9.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-16T19:29:01.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="IdpEb9KKKFioKGjQKVJF" version="15.9.4" type="github" pages="3">
   <diagram id="yiBgiRCkKJPcv2Lnv_mv" name="Page-1">
     <mxGraphModel dx="782" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -545,20 +545,38 @@
       <root>
         <mxCell id="ochP2KZfQh1eP7kVtOjl-0" />
         <mxCell id="ochP2KZfQh1eP7kVtOjl-1" parent="ochP2KZfQh1eP7kVtOjl-0" />
-        <mxCell id="ochP2KZfQh1eP7kVtOjl-2" value="Storage Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-2" value="Storage Blockchain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
           <mxGeometry x="230" y="240" width="420" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.143;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ochP2KZfQh1eP7kVtOjl-1" source="ochP2KZfQh1eP7kVtOjl-4" target="ochP2KZfQh1eP7kVtOjl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ochP2KZfQh1eP7kVtOjl-4" value="File System Zone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
-          <mxGeometry x="230" y="130" width="130" height="30" as="geometry" />
+          <mxGeometry x="230" y="130" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.533;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ochP2KZfQh1eP7kVtOjl-1" source="ochP2KZfQh1eP7kVtOjl-5" target="ochP2KZfQh1eP7kVtOjl-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ochP2KZfQh1eP7kVtOjl-5" value="Object Storage Zone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
-          <mxGeometry x="390" y="130" width="120" height="30" as="geometry" />
+          <mxGeometry x="390" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ochP2KZfQh1eP7kVtOjl-11" value="Database Zone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
-          <mxGeometry x="540" y="130" width="110" height="30" as="geometry" />
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.864;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ochP2KZfQh1eP7kVtOjl-1" source="ochP2KZfQh1eP7kVtOjl-11" target="ochP2KZfQh1eP7kVtOjl-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ochP2KZfQh1eP7kVtOjl-18" value="Interface Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
-          <mxGeometry x="80" y="130" width="100" height="30" as="geometry" />
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-11" value="Database Zone&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+          <mxGeometry x="540" y="130" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-18" value="Interface Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+          <mxGeometry x="690" y="130" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-19" value="Storage Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+          <mxGeometry x="690" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-23" value="Command Bus" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+          <mxGeometry x="140" y="110" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ochP2KZfQh1eP7kVtOjl-24" value="Command Bus" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+          <mxGeometry x="140" y="60" width="510" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
