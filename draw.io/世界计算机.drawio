@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T19:32:38.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cjK1hmVc-Fct8SS-Org1" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T19:33:49.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YW3txzgmMFPhQ2jl6Ff9" version="15.9.4" type="github">
   <diagram id="dr8xThEqkj9P6_olyy3B" name="第 3 页">
     <mxGraphModel dx="782" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,6 +36,15 @@
         </mxCell>
         <mxCell id="ochP2KZfQh1eP7kVtOjl-24" value="Command Bus" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="ochP2KZfQh1eP7kVtOjl-1" vertex="1">
           <mxGeometry x="50" y="280" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UqT1MbhBOW7zlgvVnSua-0" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+          <mxGeometry x="190" y="340" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UqT1MbhBOW7zlgvVnSua-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+          <mxGeometry x="350" y="340" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UqT1MbhBOW7zlgvVnSua-2" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ochP2KZfQh1eP7kVtOjl-1">
+          <mxGeometry x="490" y="340" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
