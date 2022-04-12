@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T03:08:56.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="16.6.6" etag="rIpG-0tDLjEtIZxYxgnI" type="github"><diagram id="wm1Fg1TAVCGBOyi2cKrR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-12T03:16:18.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="_GJTPa5VzBGEvxj65E5d" version="16.6.6" type="github">
+  <diagram id="wm1Fg1TAVCGBOyi2cKrR" name="第 1 页">
+    <mxGraphModel dx="680" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hAE4P7PYkWgDSxKPw7YR-1" value="数据" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAE4P7PYkWgDSxKPw7YR-4" value="&lt;h1&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Mvtec&lt;/span&gt;&lt;span&gt;训练&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span&gt;合成噪声数据集&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;(&lt;/span&gt;&lt;span&gt;测试&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;合成&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;noisy&lt;/span&gt;数据集&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;(&lt;/span&gt;训练&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;)-&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Mvtec&lt;/span&gt;测试&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;测评现有方法&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;PatchCore&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Cflow&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;PaDim&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;提出自己的方法&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;鲁棒性对比&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="460" y="90" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hAE4P7PYkWgDSxKPw7YR-5" value="方法" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAE4P7PYkWgDSxKPw7YR-6" value="流程" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAE4P7PYkWgDSxKPw7YR-7" value="结果" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
