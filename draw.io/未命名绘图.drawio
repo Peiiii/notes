@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T14:28:48.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ae3C6pLVGE7-gDsdhgPJ" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-12T14:31:03.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="kTS_1t5yCvNns5CwIu3i" version="17.4.3" type="github" pages="3">
   <diagram id="wm1Fg1TAVCGBOyi2cKrR" name="第 1 页">
     <mxGraphModel dx="782" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,42 +64,42 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N0j_q2kMEwG5BHWi3xev" name="第 3 页">
-    <mxGraphModel dx="1632" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jhrsixsIogrDy5reJ4kV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="210" y="270" width="450" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-2" value="受干扰训练集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="365" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-305" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-3" value="训练鲁棒性评估" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="260" y="400" width="90" height="30" as="geometry" />
+          <mxGeometry x="-140" y="530" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-4" value="测试鲁棒性评估" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="260" y="515" width="90" height="35" as="geometry" />
+          <mxGeometry x="-140" y="830" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-5" value="受干扰测试集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="515" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-155" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-6" value="普通测试集" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="515" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-155" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-7" value="普通训练集" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="365" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-305" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jhrsixsIogrDy5reJ4kV-8" value="性能指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="395" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="jhrsixsIogrDy5reJ4kV-8" value="缺陷检测准确率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-9" value="现有方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="385" width="200" height="60" as="geometry" />
+          <mxGeometry x="-710" y="605" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-10" value="我的方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="510" width="200" height="60" as="geometry" />
+          <mxGeometry x="-710" y="730" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-11" value="性能对比" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="700" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhrsixsIogrDy5reJ4kV-12" value="缺陷检测准确率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
