@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T14:31:18.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="IDz2LNus7YfGWdirY7d0" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-12T14:34:04.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="dson_aOEsO4aC0NwP3kh" version="17.4.3" type="github" pages="3">
   <diagram id="wm1Fg1TAVCGBOyi2cKrR" name="第 1 页">
     <mxGraphModel dx="782" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,37 +69,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jhrsixsIogrDy5reJ4kV-2" value="合成受干扰训练集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-400" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-3" value="训练鲁棒性评估" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="-235" y="540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-4" value="测试鲁棒性评估" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="830" width="90" height="35" as="geometry" />
+          <mxGeometry x="-235" y="830" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-5" value="合成受干扰测试集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-155" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-6" value="普通测试集" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-155" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-7" value="普通训练集" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-400" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-8" value="缺陷检测准确率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-95" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-9" value="现有方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="605" width="200" height="60" as="geometry" />
+          <mxGeometry x="-640" y="610" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jhrsixsIogrDy5reJ4kV-10" value="我的方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="730" width="200" height="60" as="geometry" />
+        <mxCell id="jhrsixsIogrDy5reJ4kV-10" value="本方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="730" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-11" value="性能对比" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="220" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhrsixsIogrDy5reJ4kV-12" value="缺陷检测准确率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-95" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
